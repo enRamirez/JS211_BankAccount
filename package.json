@@ -1,0 +1,9 @@
+{
+    "name": "JS211_bankaccount",
+     "scripts": {
+        "test": "mocha --no-timeouts"
+     },
+     "dependencies": {
+        "mocha": "10.2.0"
+     }
+}
